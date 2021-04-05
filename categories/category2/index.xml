@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>category2 - Category - 觉宇宙之无穷</title>
+        <link>https://example.com/categories/category2/</link>
+        <description>category2 - Category - 觉宇宙之无穷</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 08 Mar 2020 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://example.com/categories/category2/" rel="self" type="application/rss+xml" /><item>
+    <title>Test2</title>
+    <link>https://example.com/theme-category2/</link>
+    <pubDate>Sun, 08 Mar 2020 15:58:26 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://example.com/theme-category2/</guid>
+    <description><![CDATA[<p>2 Here is a test!</p>]]></description>
+</item></channel>
+</rss>

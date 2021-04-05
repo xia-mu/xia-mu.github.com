@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>觉宇宙之无穷</title>
+        <link>https://example.com/</link>
+        <description>About LoveIt Theme</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 04 Apr 2021 11:38:50 &#43;0800</lastBuildDate>
+            <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Test2</title>
+    <link>https://example.com/theme-category2/</link>
+    <pubDate>Sun, 08 Mar 2020 15:58:26 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://example.com/theme-category2/</guid>
+    <description><![CDATA[<p>2 Here is a test!</p>]]></description>
+</item><item>
+    <title>Test1</title>
+    <link>https://example.com/theme-category1/</link>
+    <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://example.com/theme-category1/</guid>
+    <description><![CDATA[<p>1 Here is a test!</p>]]></description>
+</item></channel>
+</rss>
